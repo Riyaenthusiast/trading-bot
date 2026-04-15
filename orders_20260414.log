@@ -1,0 +1,9 @@
+2026-04-14 21:16:50 | INFO     | orders | Logger initialised. Log file: logs\orders_20260414.log
+2026-04-14 21:16:50 | INFO     | orders | Placing BUY MARKET order | symbol=BTCUSDT qty=0.001 price=None stop=None
+2026-04-14 21:16:51 | ERROR    | orders | Order placement failed: [-2014] API-key format invalid.
+2026-04-14 21:26:52 | INFO     | orders | Logger initialised. Log file: logs\orders_20260414.log
+2026-04-14 21:26:52 | INFO     | orders | Placing BUY LIMIT order | symbol=BTCUSDT qty=0.001 price=50000.0 stop=None
+2026-04-14 21:26:52 | ERROR    | orders | Order placement failed: [-2014] API-key format invalid.
+2026-04-14 21:27:27 | INFO     | orders | Logger initialised. Log file: logs\orders_20260414.log
+2026-04-14 21:27:27 | INFO     | orders | Placing BUY LIMIT order | symbol=BTCUSDT qty=0.001 price=60000.0 stop=None
+2026-04-14 21:27:27 | ERROR    | orders | Order placement failed: [-2014] API-key format invalid.

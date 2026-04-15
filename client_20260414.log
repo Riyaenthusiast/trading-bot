@@ -1,0 +1,12 @@
+2026-04-14 21:16:50 | INFO     | client | Logger initialised. Log file: logs\client_20260414.log
+2026-04-14 21:16:50 | DEBUG    | client | REQUEST  POST https://testnet.binancefuture.com/fapi/v1/order  params={'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1776181610936, 'signature': 'cb7b3744e554712b5ae6aef22c9d7abda0076e5900662976d1654d8f11f280be'}
+2026-04-14 21:16:51 | DEBUG    | client | RESPONSE status=401 body={"code":-2014,"msg":"API-key format invalid."}
+2026-04-14 21:16:51 | ERROR    | client | API error -2014: API-key format invalid.
+2026-04-14 21:26:52 | INFO     | client | Logger initialised. Log file: logs\client_20260414.log
+2026-04-14 21:26:52 | DEBUG    | client | REQUEST  POST https://testnet.binancefuture.com/fapi/v1/order  params={'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': 50000.0, 'timeInForce': 'GTC', 'timestamp': 1776182212156, 'signature': '72b272f19442e27a7a750c9ec2e746c6fd7e9f38ade07904aa8ffd2d9bec1eea'}
+2026-04-14 21:26:52 | DEBUG    | client | RESPONSE status=401 body={"code":-2014,"msg":"API-key format invalid."}
+2026-04-14 21:26:52 | ERROR    | client | API error -2014: API-key format invalid.
+2026-04-14 21:27:27 | INFO     | client | Logger initialised. Log file: logs\client_20260414.log
+2026-04-14 21:27:27 | DEBUG    | client | REQUEST  POST https://testnet.binancefuture.com/fapi/v1/order  params={'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': 60000.0, 'timeInForce': 'GTC', 'timestamp': 1776182247075, 'signature': '91455e0d1587348626a3dcf8085f8a5be11277030e35951c1156e9192e6df803'}
+2026-04-14 21:27:27 | DEBUG    | client | RESPONSE status=401 body={"code":-2014,"msg":"API-key format invalid."}
+2026-04-14 21:27:27 | ERROR    | client | API error -2014: API-key format invalid.
